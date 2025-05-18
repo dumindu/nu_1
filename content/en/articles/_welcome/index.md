@@ -1,8 +1,6 @@
 ---
 title: 👋 Hi, I’m Dumindu...
-url: "hi"
-aliases:
-  - "/me"
+url: "welcome"
 ---
 
 ## About me
@@ -35,24 +33,23 @@ aliases:
 [![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=Stripe&logoColor=ffffff)](#)
 [![OAuth2.0](https://img.shields.io/badge/OAuth2.0-333333?style=for-the-badge)](#)
 [![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=ffffff)](#)
+[![Terraform](https://img.shields.io/badge/terraform-7b42bc?style=for-the-badge&logo=terraform&logoColor=ffffff)](#)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=ffffff)](#)
 [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=RabbitMQ&logoColor=ffffff)](#)
 [![Casbin](https://img.shields.io/badge/Casbin-00ADD8?style=for-the-badge)](#)
 [![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=ClickHouse&logoColor=ffffff)](#)
+[![Concurrency](https://img.shields.io/badge/Concurrency-333333?style=for-the-badge)](#)
+[![Functional Programming](https://img.shields.io/badge/Functional%20Programming-4169E1?style=for-the-badge)](#)
 [![GitHub Actions](https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=FFFFFF)](#)
 [![GoLand](https://img.shields.io/badge/GoLand-000000?style=for-the-badge&logo=GoLand&logoColor=ffffff)](#)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=ffffff)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=ffffff)](#)
 [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=ffffff)](#)
-[![Functional Programming](https://img.shields.io/badge/Functional%20Programming-0969da?style=for-the-badge)](#)
-[![Concurrency](https://img.shields.io/badge/Concurrency-333333?style=for-the-badge)](#)
+[![htmx](https://img.shields.io/badge/htmx-333333?style=for-the-badge&logo=htmx)](#)
 [![html5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)](#)
 [![css3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff)](#)
-[![htmx](https://img.shields.io/badge/htmx-333333?style=for-the-badge&logo=htmx)](#)
-[![Terraform](https://img.shields.io/badge/terraform-7b42bc?style=for-the-badge&logo=terraform&logoColor=ffffff)](#)
-[![SRE](https://img.shields.io/badge/SRE-00ADD8?style=for-the-badge)](#)
 
 ## CV/ Resume
 
-[![Resume](https://img.shields.io/badge/resume-%E2%AC%87-181717?style=for-the-badge&logoColor=ffffff&labelColor=FFDD00)](https://github.com/dumindu/hire-me/blob/main/dumindu_madunuwan_resume.pdf)
-[![CV](https://img.shields.io/badge/cv-%E2%AC%87-181717?style=for-the-badge&logoColor=ffffff&labelColor=FFDD00)](https://github.com/dumindu/hire-me/blob/main/dumindu_madunuwan_cv.pdf)
+[![Resume](https://img.shields.io/badge/resume-%E2%AC%87-444444?style=for-the-badge&logoColor=ffffff&labelColor=FFDD00)](https://github.com/dumindu/hire-me/blob/main/dumindu_madunuwan_resume.pdf)
+[![CV](https://img.shields.io/badge/cv-%E2%AC%87-444444?style=for-the-badge&logoColor=ffffff&labelColor=FFDD00)](https://github.com/dumindu/hire-me/blob/main/dumindu_madunuwan_cv.pdf)
