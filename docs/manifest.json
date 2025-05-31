@@ -2,16 +2,16 @@
   "name": "Dumindu Madunuwan",
   "short_name": "Dumindu's Blog",
   "description": "Dumindu Madunuwan: Nu_1",
-  "start_url": "/?source=pwa",
+  "start_url": "/nu_1/?source=pwa",
   "display": "standalone",
   "icons": [
     {
-      "src": "/favicon/android-chrome-192x192.png",
+      "src": "/nu_1/favicon/android-chrome-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/favicon/android-chrome-512x512.png",
+      "src": "/nu_1/favicon/android-chrome-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
