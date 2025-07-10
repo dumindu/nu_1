@@ -49,7 +49,70 @@ url: "welcome"
 [![html5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)](#)
 [![css3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff)](#)
 
-## CV/ Resume
+---
 
-[![Resume](https://img.shields.io/badge/resume-%E2%AC%87-444444?style=for-the-badge&logoColor=ffffff&labelColor=FFDD00)](https://github.com/dumindu/hire-me/blob/main/dumindu_madunuwan_resume.pdf)
-[![CV](https://img.shields.io/badge/cv-%E2%AC%87-444444?style=for-the-badge&logoColor=ffffff&labelColor=FFDD00)](https://github.com/dumindu/hire-me/blob/main/dumindu_madunuwan_cv.pdf)
+## Work Experience
+
+> **Tech Lead**
+> 
+> - **Lucytech/ Home24 SE 🇩🇪 (🇱🇰 Sri Lanka/ Remote)** - _03/2025 - Present_
+>
+>   - Development of next-gen product and supplier onboarding ecosystem for Giga International GmbH / Home24 SE.
+>   - Stack: Go, MySQL, PostgreSQL, AWS, Azure, Docker, CircleCI, Serverless computing, S3, Lambda, CloudWatch.
+
+
+> **Software Engineer**
+> 
+> - **NCS Pte Ltd | Anchor Biz IT (🇸🇬 Singapore)** - _11/2023 - 11/2024_
+>
+>   - Delivered internal serverless backend services for Singapore’s Ministry of Manpower under the supervision of NCS.
+>   -  Stack: Go, GraphQL, Terraform, AWS, PostgreSQL, Docker, GitLab, Serverless computing, ECS, Lambda, SQS, SNS, CloudWatch.
+
+
+> **Senior Go & DevOps Developer**
+> 
+> - **Alpha Networks / Axclusive (🇸🇬 Singapore)** - _08/2019 - 08/2023_
+>
+>   - Led design, implementation and infrastructure for ISP, VPN, and DNS projects and managed a team of 5+ developers.
+>   - Stack: Go, AWS, Docker, Kubernetes, Redis, PostgreSQL, RabbitMQ, CoreDNS, WireGuard, OAuth2.0, Stripe, Linkerd, Istio.
+
+
+> **Middle Go & PHP Developer**
+> 
+> - **Lazada Tech Hub | e-Logistics (🇻🇳 Ho Chi Minh City, Vietnam)** - _05/2017 - 05/2019_
+>
+>   - Rebuilt core logistics systems—order tracking, package splitting, and returns management systems—supporting Lazada, AliExpress, Daraz under Alibaba Group and maintained the notification management, transportation systems of Lazada.
+>   - Stack: Go, Docker, Kubernetes, PHP, PostgreSQL, Redis, RabbitMQ, Prometheus, Kibana, Grafana, TeamCity, Jira, Confluence.
+
+
+> **Go & PHP Developer**
+> 
+> - **Lazada Tech Hub (🇻🇳 Ho Chi Minh City, Vietnam)** - _10/2014 - 08/2016_
+>
+>   - Maintained monolithic product catalog backend and frontend systems originally built under Rocket Internet and Improved user tracking systems and integrated Bloomreach product suggestions to Lazada product and catalog pages.
+>   - Stack: PHP, MySQL, Docker, Zend Framework, Yii, Codeception, Redis, TDD, Jira, Confluence, Bitbucket, TeamCity,
+
+
+> **Software Engineer**
+> 
+> - **D&J Holdings / Keeneye (🇱🇰 Sri Lanka)** - _07/2013 - 10/2014_
+>
+>   - Built RESTful APIs, designed layouts and managed infrastructure to build mobile applications.
+>   - Stack: PHP, MySQL, Yii, CodeIgniter, Bootstrap, JQuery, JavaScript, HTML5, CSS3.
+
+
+> **Software Engineer**
+> 
+> - **Cyber LMJ & L.M. Jinasena & Co (🇱🇰 Sri Lanka)** - _03/2012 - 02/2013_
+>
+>   - Created RESTful APIs for Elephanti, a retail application that allow users to connect with favorite stores, venues and brands, which launched at Internet Week New York City 2012.
+>   - Stack: PHP, MySQL, CodeIgniter, JQuery, JavaScript, HTML5, CSS3.
+
+
+> **Associate Software Engineer**
+> 
+> - **Webcrafts Pvt Ltd (🇱🇰 Sri Lanka)** - _05/2011 - 02/2012_
+>
+>   - Developed Travel Insurance and Hotel booking systems.
+>   - Stack: PHP, MySQL, Yii, JQuery, JS, HTML, CSS, Ubuntu, LAMP.
+
