@@ -37,6 +37,18 @@
 &lt;a href="">&lt;img src="https://img.shields.io/badge/htmx-333333?style=for-the-badge&amp;amp;logo=htmx" alt="htmx">&lt;/a>
 &lt;a href="">&lt;img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&amp;amp;logo=html5&amp;amp;logoColor=ffffff" alt="html5">&lt;/a>
 &lt;a href="">&lt;img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&amp;amp;logo=css3&amp;amp;logoColor=ffffff" alt="css3">&lt;/a>&lt;/p>
-&lt;h2 id="cv-resume">CV/ Resume&lt;/h2>
-&lt;p>&lt;a href="https://github.com/dumindu/hire-me/blob/main/dumindu_madunuwan_resume.pdf">&lt;img src="https://img.shields.io/badge/resume-%E2%AC%87-444444?style=for-the-badge&amp;amp;logoColor=ffffff&amp;amp;labelColor=FFDD00" alt="Resume">&lt;/a>
-&lt;a href="https://github.com/dumindu/hire-me/blob/main/dumindu_madunuwan_cv.pdf">&lt;img src="https://img.shields.io/badge/cv-%E2%AC%87-444444?style=for-the-badge&amp;amp;logoColor=ffffff&amp;amp;labelColor=FFDD00" alt="CV">&lt;/a>&lt;/p></description></item></channel></rss>
+&lt;hr>
+&lt;h2 id="work-experience">Work Experience&lt;/h2>
+&lt;blockquote>
+&lt;p>&lt;strong>Tech Lead&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Lucytech/ Home24 SE 🇩🇪 (🇱🇰 Sri Lanka/ Remote)&lt;/strong> - &lt;em>03/2025 - Present&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Development of next-gen product and supplier onboarding ecosystem for Giga International GmbH / Home24 SE.&lt;/li>
+&lt;li>Stack: Go, MySQL, PostgreSQL, AWS, Azure, Docker, CircleCI, Serverless computing, S3, Lambda, CloudWatch.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>&lt;/blockquote>
+&lt;blockquote>
+&lt;p>&lt;strong>Software Engineer&lt;/strong>&lt;/p></description></item></channel></rss>
