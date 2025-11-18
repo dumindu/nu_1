@@ -55,7 +55,7 @@ url: "welcome"
 
 > **Tech Lead**
 > 
-> - **Lucytech/ Home24 SE 🇩🇪 (🇱🇰 Sri Lanka/ Remote)** - _03/2025 - Present_
+> - **Lucytech/ Home24 SE 🇩🇪 (🇱🇰 Sri Lanka/ Remote)** - _03/2025 - 08/2025_
 >
 >   - Development of next-gen product and supplier onboarding ecosystem for Giga International GmbH / Home24 SE.
 >   - Stack: Go, MySQL, PostgreSQL, AWS, Azure, Docker, CircleCI, Serverless computing, S3, Lambda, CloudWatch.

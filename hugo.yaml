@@ -1,0 +1,76 @@
+theme: E25DX
+
+enableGitInfo: true
+
+publishDir: docs
+baseURL: https://dumindu.github.io/nu_1
+
+defaultContentLanguage: en
+
+languages:
+  en:
+    weight: 1
+    languageName: English
+    languageCode: en-US
+    contentDir: content/en
+    title: "NU_1"
+    params:
+      description: "Dumindu Madunuwan's Blog"
+
+# To omit the Google Analytics script, put a ~ in place of the G-XXXXXXXXXX below.
+services:
+  googleAnalytics:
+    ID: ~
+
+markup:
+  highlight:
+    noClasses: false
+  goldmark:
+    renderer:
+      unsafe: true
+    parser:
+      attribute:
+        block: true
+        title: true
+
+params:
+  project:
+    # To omit the startYear, put a ~ in its place.
+    startYear: ~
+    presentYear: 2025
+    github:
+      repo: dumindu/nu_1
+    themeColor:
+      light: '#ffffff'
+      dark: '#101010'
+
+  author:
+    name: Dumindu
+    url: https://github.com/dumindu
+
+  home:
+    heading: Nu
+    headingSegment2: _1
+    description: Backend, DevOps, and Creative Problem‑Solving 🧑‍💻
+    getStartedPath: welcome/
+
+  pagination:
+    size: 6
+
+menus:
+  main:
+    - identifier: home
+      name: Home
+      pre: <i aria-hidden> 🏡 </i>
+      pageRef: /
+      weight: 10
+    - identifier: blog
+      name: Blog
+      pre: <i aria-hidden> 🧑‍💻 </i>
+      pageRef: /blog
+      weight: 20
+    - identifier: welcome
+      name: Welcome
+      pre: <i aria-hidden> 🦄 </i>
+      pageRef: /welcome
+      weight: 30

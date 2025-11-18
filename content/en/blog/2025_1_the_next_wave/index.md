@@ -1,9 +1,8 @@
 ---
 title: The Next Wave! 🌊
-url: "the-next-wave-of-programming"
+slug: "the-next-wave-of-programming"
+summary: The next wave of programming jobs may be very different!
 ---
-
-> 🧑‍💻The next wave of programming jobs may be very different!
 
 **The Shift: Programming Becoming More Abstracted**
 

@@ -1,10 +1,10 @@
 # 🚀 NU_1
 
-> 🧑‍💻 Dumindu Madunuwan
+## Pages
 
-- [👋 Hi, I’m Dumindu...](content/en/articles/_welcome/index.md)
+- [Welcome 👋](content/en/page/welcome/index.md)
 
-## The Blog
+## Blog Posts
 
 ### 2025
-- [The Next Wave! 🌊](content/en/articles/2025_1_the_next_wave/index.md)
+- [The Next Wave! 🌊](content/en/blog/2025_1_the_next_wave/index.md)
