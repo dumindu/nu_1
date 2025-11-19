@@ -1,6 +1,7 @@
 theme: E25DX
 
 enableGitInfo: true
+enableRobotsTXT: true
 
 publishDir: docs
 baseURL: https://dumindu.github.io/nu_1
@@ -72,5 +73,5 @@ menus:
     - identifier: welcome
       name: Welcome
       pre: <i aria-hidden> 🦄 </i>
-      pageRef: /welcome
+      pageRef: /page/welcome
       weight: 30
