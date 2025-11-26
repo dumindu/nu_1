@@ -36,4 +36,24 @@
 &lt;a href="#" &gt;&lt;img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&amp;amp;logo=Prometheus&amp;amp;logoColor=ffffff" alt="Prometheus"&gt;&lt;/a&gt;
 &lt;a href="#" &gt;&lt;img src="https://img.shields.io/badge/htmx-333333?style=for-the-badge&amp;amp;logo=htmx" alt="htmx"&gt;&lt;/a&gt;
 &lt;a href="#" &gt;&lt;img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&amp;amp;logo=html5&amp;amp;logoColor=ffffff" alt="html5"&gt;&lt;/a&gt;
-&lt;a href="#" &gt;&lt;img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&amp;amp;logo=css3&amp;amp;logoColor=ffffff" alt="css3"&gt;&lt;/a&gt;&lt;/p&gt;</description></item><item><title>The Next Wave! 🌊</title><link>https://dumindu.github.io/nu_1/blog/the-next-wave-of-programming/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dumindu.github.io/nu_1/blog/the-next-wave-of-programming/</guid><description>The next wave of programming jobs may be very different!</description></item></channel></rss>
+&lt;a href="#" &gt;&lt;img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&amp;amp;logo=css3&amp;amp;logoColor=ffffff" alt="css3"&gt;&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Data Structures</title><link>https://dumindu.github.io/nu_1/blog/data-structures/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dumindu.github.io/nu_1/blog/data-structures/</guid><description>&lt;h2 id="definition"&gt;Definition&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;⭐️ Data Structures is &lt;strong&gt;a way of organizing and storing data efficiently.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;They define:
+&lt;ul&gt;
+&lt;li&gt;the &lt;strong&gt;relationship between the data&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;the &lt;strong&gt;operations that can be performed on the data&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;So that they can be accessed and worked with efficiently.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id="arrays"&gt;Arrays&lt;/h2&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-text" data-lang="text"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; APPEND(1) APPEND(2) APPEND(3) 
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; +-----+----+----+ +-----+-----+----+ +-----+-----+-----+ 
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; | 1 | | | | 1 | 2 | | | 1 | 2 | 3 | 
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; +-----+----+----+ +-----+-----+----+ +-----+-----+-----+ 
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; 0 1 2 ← INDEXES 0 1 2 ← INDEXES 0 1 2 ← INDEXES 
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Example: Row of Lockers,&lt;/p&gt;</description></item><item><title>The Next Wave! 🌊</title><link>https://dumindu.github.io/nu_1/blog/the-next-wave-of-programming/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dumindu.github.io/nu_1/blog/the-next-wave-of-programming/</guid><description>The next wave of programming jobs may be very different!</description></item></channel></rss>
