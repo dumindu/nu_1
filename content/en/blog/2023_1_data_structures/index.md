@@ -1,6 +1,7 @@
 ---
 title: Data Structures
 slug: "data-structures"
+publishDate: 2023-08-28T00:00:00+08:00
 ---
 
 ## Definition

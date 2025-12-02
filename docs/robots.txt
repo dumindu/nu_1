@@ -5,11 +5,11 @@ User-agent: Applebot
 Allow: /
 
 User-agent: *
-Disallow: /nu_1/welcome/
 Disallow: /nu_1/blog/
-Disallow: /nu_1/categories/
-Disallow: /nu_1/blog/data-structures/
 Disallow: /nu_1/
+Disallow: /nu_1/blog/the-next-wave-of-programming/
+Disallow: /nu_1/blog/data-structures/
+Disallow: /nu_1/welcome/
+Disallow: /nu_1/categories/
 Disallow: /nu_1/page/
 Disallow: /nu_1/tags/
-Disallow: /nu_1/blog/the-next-wave-of-programming/
