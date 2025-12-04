@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blogs on NU_1</title><link>https://dumindu.github.io/nu_1/blog/</link><description>Recent content in Blogs on NU_1</description><generator>Hugo</generator><language>en-US</language><lastBuildDate>Tue, 02 Dec 2025 21:18:40 +0800</lastBuildDate><atom:link href="https://dumindu.github.io/nu_1/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>The Next Wave!</title><link>https://dumindu.github.io/nu_1/blog/the-next-wave-of-programming/</link><pubDate>Sat, 26 Jul 2025 00:00:00 +0800</pubDate><guid>https://dumindu.github.io/nu_1/blog/the-next-wave-of-programming/</guid><description>&lt;p&gt;&lt;strong&gt;Programming Becoming More Abstracted&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blogs on NU_1</title><link>https://dumindu.github.io/nu_1/blog/</link><description>Recent content in Blogs on NU_1</description><generator>Hugo</generator><language>en-US</language><lastBuildDate>Thu, 04 Dec 2025 09:02:23 +0800</lastBuildDate><atom:link href="https://dumindu.github.io/nu_1/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>The Next Wave!</title><link>https://dumindu.github.io/nu_1/blog/the-next-wave-of-programming/</link><pubDate>Sat, 26 Jul 2025 00:00:00 +0800</pubDate><guid>https://dumindu.github.io/nu_1/blog/the-next-wave-of-programming/</guid><description>&lt;p&gt;&lt;strong&gt;Programming Becoming More Abstracted&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Today, the traditional gatekeeping of code is dissolving. Tools like Claude Code, Gemini CLI, OpenAI Codex, Bubble, and Manus are enabling managers, designers, and other non-devs to translate vague specs into functional prototypes — or even deployable applications.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;What used to take teams of developers now sometimes takes a few clever prompts and a drag-and-drop interface. It feels like magic. But it comes with a cost!&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Data Structures</title><link>https://dumindu.github.io/nu_1/blog/data-structures/</link><pubDate>Mon, 28 Aug 2023 00:00:00 +0800</pubDate><guid>https://dumindu.github.io/nu_1/blog/data-structures/</guid><description>&lt;h2 id="definition"&gt;Definition&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -13,11 +13,7 @@
 &lt;/ul&gt;
 &lt;p&gt;So that they can be accessed and worked with efficiently.&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;hr&gt;
 &lt;h2 id="arrays"&gt;Arrays&lt;/h2&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-text" data-lang="text"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; APPEND(1) APPEND(2) APPEND(3) 
-&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; 
-&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; +-----+----+----+ +-----+-----+----+ +-----+-----+-----+ 
-&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; | 1 | | | | 1 | 2 | | | 1 | 2 | 3 | 
-&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; +-----+----+----+ +-----+-----+----+ +-----+-----+-----+ 
-&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; 0 1 2 ← INDEXES 0 1 2 ← INDEXES 0 1 2 ← INDEXES 
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Example: Row of Lockers,&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;An array stores a collection of items at adjoining memory locations. Items can be accessed using their indices.&lt;/p&gt;
+&lt;p&gt;Because of their ability to use an index to directly access an element, arrays are often used when the size of the collection can be known in advance. They are frequently used in mathematical computations where accessing elements in a sequential manner is common. For instance, matrices, which are two-dimensional arrays, are often used in graphics transformations.&lt;/p&gt;</description></item></channel></rss>
