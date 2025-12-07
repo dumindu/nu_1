@@ -14,9 +14,9 @@ languages:
     languageName: English
     languageCode: en-US
     contentDir: content/en
-    title: "NU_1"
+    title: Nu_1
     params:
-      description: "Dumindu Madunuwan's Blog"
+      description: A Creative Corner for New Ideas and Innovations
 
 # To omit the Google Analytics script, put a ~ in place of the G-XXXXXXXXXX below.
 services:
@@ -46,13 +46,13 @@ params:
       dark: '#101010'
 
   author:
-    name: Dumindu
+    name: Dumindu Madunuwan
     url: https://github.com/dumindu
 
   home:
     heading: Nu
     headingSegment2: _1
-    description: Backend, DevOps, and Creative Problem‑Solving 🧑‍💻
+    description: A Creative Corner for New Ideas and Innovations 🚀
     getStartedPath: welcome/
 
   pagination:
