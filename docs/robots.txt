@@ -6,6 +6,7 @@ Allow: /
 
 User-agent: *
 Disallow: /nu_1/blog/
+Disallow: /nu_1/blog/concurrency-patterns-in-golang/
 Disallow: /nu_1/
 Disallow: /nu_1/blog/the-next-wave-of-programming/
 Disallow: /nu_1/blog/data-structures/
