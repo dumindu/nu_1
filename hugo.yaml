@@ -52,7 +52,7 @@ params:
   home:
     heading: Nu
     headingSegment2: _1
-    description: A Creative Corner for New Ideas and Innovations 🚀
+    description: A Creative Corner for Ideas, Thoughts and Innovations 🧑‍💻
     getStartedPath: welcome/
 
   pagination:
@@ -67,11 +67,11 @@ menus:
       weight: 10
     - identifier: blog
       name: Blog
-      pre: <i aria-hidden> 🧑‍💻 </i>
+      pre: <i aria-hidden> ✍️ </i>
       pageRef: /blog
       weight: 20
     - identifier: welcome
       name: Welcome
-      pre: <i aria-hidden> 🦄 </i>
+      pre: <i aria-hidden> 🧑‍💻 </i>
       pageRef: /page/welcome
       weight: 30
