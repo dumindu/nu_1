@@ -38,7 +38,7 @@ params:
   project:
     # To omit the startYear, put a ~ in its place.
     startYear: ~
-    presentYear: 2025
+    presentYear: 2026
     github:
       repo: dumindu/nu_1
     themeColor:
