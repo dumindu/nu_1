@@ -19,7 +19,8 @@ A Creative Corner for New Ideas and Innovations 🚀
 
 ## Articles
 
-| Title           | Markdown                                              |
-|-----------------|-------------------------------------------------------|
-| Data Structures | [📄](content/en/blog/2023_1_data_structures/index.md) |
-| The Next Wave!  | [📄](content/en/blog/2025_1_the_next_wave/index.md)   |
+| Title                          | Markdown                                                             |
+|--------------------------------|----------------------------------------------------------------------|
+| Data Structures                | [📄](content/en/blog/2023_1_data_structures/index.md)                |
+| The Next Wave!                 | [📄](content/en/blog/2025_1_the_next_wave/index.md)                  |
+| Concurrency Patterns in Golang | [📄](content/en/blog/2025_2_concurrency_patterns_in_golang/index.md) |
