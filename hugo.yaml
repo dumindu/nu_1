@@ -14,7 +14,7 @@ languages:
     languageName: English
     languageCode: en-US
     contentDir: content/en
-    title: Nu_1
+    title: NU_1
     params:
       description: A Creative Corner for New Ideas and Innovations
 
@@ -50,7 +50,7 @@ params:
     url: https://github.com/dumindu
 
   home:
-    heading: Nu
+    heading: NU
     headingSegment2: _1
     description: A Creative Corner for Ideas, Thoughts and Innovations 🧑‍💻
     getStartedPath: welcome/
