@@ -50,8 +50,8 @@ params:
     url: https://github.com/dumindu
 
   home:
-    heading: NU
-    headingSegment2: _1
+    heading: Nu_1
+    headingSegment2: ~
     description: A Creative Corner for Ideas, Thoughts and Innovations 🧑‍💻
     getStartedPath: welcome/
 
