@@ -39,8 +39,8 @@ params:
     # To omit the startYear, put a ~ in its place.
     startYear: 2025
     presentYear: 2026
-    github:
-      repo: dumindu/nu_1
+    repo:
+      main: https://github.com/dumindu/nu_1
     themeColor:
       light: '#ffffff'
       dark: '#101010'
@@ -49,12 +49,6 @@ params:
     name: Dumindu Madunuwan
     url: https://github.com/dumindu
 
-  home:
-    heading: Nu_1
-    headingSegment2: ~
-    description: A Creative Corner for Ideas, Thoughts and Innovations 🧑‍💻
-    getStartedPath: welcome/
-
   pagination:
     size: 6
 
@@ -62,16 +56,19 @@ menus:
   main:
     - identifier: home
       name: Home
-      pre: <i aria-hidden> 🏡 </i>
       pageRef: /
       weight: 10
+      params:
+        icon: home
     - identifier: blog
       name: Blog
-      pre: <i aria-hidden> ✍️ </i>
       pageRef: /blog
       weight: 20
-    - identifier: welcome
-      name: Welcome
-      pre: <i aria-hidden> 🧑‍💻 </i>
+      params:
+        icon: breaking_news_alt_1
+    - identifier: profile
+      name: Profile
       pageRef: /page/welcome
       weight: 30
+      params:
+        icon: contact_mail
