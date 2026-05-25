@@ -2,6 +2,11 @@
 title: Concurrency Patterns in Golang
 slug: "concurrency-patterns-in-golang"
 publishDate: 2025-11-26T00:00:00+08:00
+
+summary: >
+  Go’s concurrency model is one of its biggest strengths—but using it well takes more than just starting goroutines. 
+  This guide walks through essential concurrency concepts and practical patterns like fan-out/fan-in, pipelines, 
+  and publish/subscribe, using clear explanations and real-world examples.
 ---
 
 ## Essentials

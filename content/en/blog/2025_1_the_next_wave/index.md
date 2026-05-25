@@ -2,6 +2,11 @@
 title: The Next Wave!
 slug: "the-next-wave-of-programming"
 publishDate: 2025-07-26T00:00:00+08:00
+
+summary: >
+  AI coding tools and no-code platforms are changing who gets to build software—and what developers are expected to do next. 
+  This post explores the next wave of programming, where engineers become architects, reviewers, AI wranglers, 
+  and guardians of quality in a world full of faster prototypes, generated code, and new technical debt.
 ---
 
 **Programming Becoming More Abstracted**

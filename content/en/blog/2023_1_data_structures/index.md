@@ -2,11 +2,11 @@
 title: Data Structures
 slug: "data-structures"
 publishDate: 2023-08-28T00:00:00+08:00
+
 summary: > 
   Data structures are the building blocks of efficient programming. 
-  In this guide, you’ll explore the most essential data structures — 
-  arrays, stacks, queues, linked lists, trees, heaps, tries, graphs, 
-  hash tables with visual infographics, and real-world use cases.
+  In this guide, you’ll explore the most essential data structures — arrays, stacks, queues, linked lists, trees, heaps, 
+  tries, graphs, hash tables with visual infographics, and real-world use cases.
 ---
 
 > [!note]
