@@ -2,7 +2,17 @@
 title: Data Structures
 slug: "data-structures"
 publishDate: 2023-08-28T00:00:00+08:00
+summary: > 
+  Data structures are the building blocks of efficient programming. 
+  In this guide, you’ll explore the most essential data structures — 
+  arrays, stacks, queues, linked lists, trees, heaps, tries, graphs, 
+  hash tables with visual infographics, and real-world use cases.
 ---
+
+> [!note]
+> First published on Substack (Data Structures, 2023).
+> <p></p>
+> <div style="zoom: .25" class="substack-post-embed"><p lang="en">Data structures by Nuwan</p><p>An introduction to data structures...</p><a data-post-link href="https://datastructures.substack.com/p/data-structures">Read on Substack</a></div><script async src="https://substack.com/embedjs/embed.js" charset="utf-8"></script>
 
 ## Definition
 

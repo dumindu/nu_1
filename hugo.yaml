@@ -65,10 +65,10 @@ menus:
       pageRef: /blog
       weight: 20
       params:
-        icon: breaking_news_alt_1
-    - identifier: profile
-      name: Profile
+        icon: news
+    - identifier: welcome
+      name: About me
       pageRef: /page/welcome
       weight: 30
       params:
-        icon: contact_mail
+        icon: account_circle

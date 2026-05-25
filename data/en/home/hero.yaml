@@ -4,10 +4,10 @@ svg: hero.svg
 
 title: New Ideas,<br/><span>Thoughts And Innovations.</span>
 
-description: A passionate Platform & Lead Engineer who loves Go, Rust, Docker, Kubernetes, and Cloud Native Application Development.
+description: A Platform and Lead Engineer who loves <br/> DX, Go, Rust, Docker, Kubernetes, and Cloud Native Application Development.
 
 btn_primary:
-  label: Profile
+  label: About Me
   url: https://dumindu.github.io/nu_1/welcome/
 
 btn_secondary:
